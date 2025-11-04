@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="42london.svg" alt="42London" width="600" />
+</p>
+
 <h1>Welcome to BitWorks</h1>
 Where bad code meets bad wiring and creates husslepuff engineers
 
